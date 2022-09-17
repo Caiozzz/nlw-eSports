@@ -104,7 +104,7 @@ section ul li:hover {
 /* ------ Animation ------- */
 
 header div {
-    animation: fromTop 1s .2s backwards;
+    animation: fromTop 1s .3s backwards;
 }
 section {
     animation: fromBottom 1s backwards;
